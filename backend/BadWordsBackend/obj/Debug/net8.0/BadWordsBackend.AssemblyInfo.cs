@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BadWordsBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e4c15a6f3667ef5e6e074f9953e539b78368fa4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BadWordsBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BadWordsBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

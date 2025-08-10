@@ -80,3 +80,4 @@ C:\Users\limon\OneDrive\Desktop\BadWordsDetection\backend\BadWordsBackend\obj\De
 C:\Users\limon\OneDrive\Desktop\BadWordsDetection\backend\BadWordsBackend\obj\Debug\net8.0\BadWordsBackend.pdb
 C:\Users\limon\OneDrive\Desktop\BadWordsDetection\backend\BadWordsBackend\obj\Debug\net8.0\BadWordsBackend.genruntimeconfig.cache
 C:\Users\limon\OneDrive\Desktop\BadWordsDetection\backend\BadWordsBackend\obj\Debug\net8.0\ref\BadWordsBackend.dll
+C:\Users\limon\OneDrive\Desktop\BadWordsDetection\backend\BadWordsBackend\obj\Debug\net8.0\BadWordsBackend.sourcelink.json

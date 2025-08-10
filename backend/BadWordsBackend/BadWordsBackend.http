@@ -1,0 +1,6 @@
+@BadWordsBackend_HostAddress = http://localhost:5091
+
+GET {{BadWordsBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

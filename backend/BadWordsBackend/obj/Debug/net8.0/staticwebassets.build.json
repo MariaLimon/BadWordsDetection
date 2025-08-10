@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3ZK5xanoH/zbDk8Z9w1K//UmscbxSb9AO5L7SCtlcjo=",
+  "Source": "BadWordsBackend",
+  "BasePath": "_content/BadWordsBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
